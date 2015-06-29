@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<field key="author" value="Pedro Prez developed for Keetup Development modified by forosdroid.com" />
+	<field key="version" value="1.11.14" />
+	<field key="description" value="Let the users to comments inline in the activity." />
+	<field key="website" value="http://forosdroid.com/" />
+	<field key="copyright" value="(C) Keetup 2010 and Forosdroid 2015" />
+	<field key="licence" value="GNU Public License version 2" />
+	<field key="elgg_version" value="2010030101" />
+</plugin_manifest>
